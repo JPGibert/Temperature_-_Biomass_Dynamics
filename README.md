@@ -1,4 +1,5 @@
-# Temperature_-_Biomass_Dynamics
+# Rapid eco-phenotypic feedbacks and the temperature response of biomass dynamics
+
 
 Repository for Gibert, Wieczynski, Han and Yammine (Submitted)
 
